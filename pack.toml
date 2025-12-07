@@ -1,12 +1,12 @@
 name = "Craft Nectar Network"
 author = "Sewdohe"
-version = "4.0.2"
+version = "4.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "21c035bdba25b00cd4c0da5dae7421721ff29282f3f7bcebac6d869f6c3b868b"
+hash = "d15fc2284e805e45b1fa282aebcd2a8ae0716312b9a1eff27c78d4520b308f76"
 
 [versions]
 minecraft = "1.21.1"

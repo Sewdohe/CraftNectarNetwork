@@ -355,6 +355,11 @@ hash = "73946fc762c8c03bce86fb420893838136413b36fcd49da3a15949de3130456d"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
@@ -452,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
 metafile = true
 
 [[files]]
