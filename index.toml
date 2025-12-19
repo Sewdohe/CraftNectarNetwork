@@ -145,11 +145,6 @@ hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
 metafile = true
 
 [[files]]
-file = "mods/create-storage-neo-forge.pw.toml"
-hash = "3783f5fd0ecd78d772ea7a670785303f90a2a6bb60e9e138f65663f064d90974"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
@@ -212,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/epic-fight.pw.toml"
 hash = "3b98b8cec1ffb640a7b1c644b7ed670e7b101e951699e69ace608837c7a53216"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "49b4208379d629beee2baba9b6883868a0421ea1d8d0478a4b8eff45b07be48d"
 metafile = true
 
 [[files]]
@@ -440,6 +440,11 @@ hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
 metafile = true
 
 [[files]]
+file = "mods/sleeping-bags.pw.toml"
+hash = "9de3675bdd0908ab4220da1b20343e2beed5b35805dd30fcc1ad84b14bf72398"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6b100c6847b82f48ac150816c2e9ce8fd590a4dc92a49e38634b7f6c6b5a2e71"
 metafile = true
@@ -457,6 +462,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "afc8b791ae5751382ecb3715fef8a7a50059cc120c5ae556ed7967a97984a1dd"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "0c0d7d7785e4ceea16c3ed1c9905bdf33532de1e290b147323c079515f2dc04b"
 metafile = true
 
 [[files]]
