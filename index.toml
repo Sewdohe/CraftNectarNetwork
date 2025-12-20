@@ -59,6 +59,11 @@ hash = "c5091ca6207647d585bd9e0c3e1a6d517b3f0f5a24aa9406a3462a9326e789f1"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "20ce9d5a5d429c81b3edaf9458bf50d6e914ce2c83e31ff15eaf7a9996499ce2"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
@@ -154,6 +159,11 @@ hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
@@ -239,6 +249,16 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "2ccff28ad45ddd1af9d2fc57d241b7df97acd475113dd1d9919f00fb83a7db18"
+metafile = true
+
+[[files]]
+file = "mods/fishermans-haven.pw.toml"
+hash = "4c6cf5e6fed9b1085c53399c43234e23a70e384b9f41c793eb5766dd998b60bd"
+metafile = true
+
+[[files]]
 file = "mods/flw-vanillin.pw.toml"
 hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
 metafile = true
@@ -291,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "80b749335d8a885db433930654303ac924de8e3a70071859492dbb7a93faa519"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "4a5e7ba2003a7c5df99905c4952c43e011f7b29a7fad9e20457a76a72e92fde2"
 metafile = true
 
 [[files]]
@@ -369,6 +394,11 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "b4b723e8c39b3737bd276678989e3253a576438155bcef89a4b62ee6947dd301"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
@@ -376,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9ffaf9a44c00156d1e613884271c8224db4cbf019e5d032d5b444bdba983122f"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
@@ -526,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/windy.pw.toml"
+hash = "487e2b84df68ee58c6ed681a709454dc518af310c143565e496d796c9300769b"
 metafile = true
 
 [[files]]
