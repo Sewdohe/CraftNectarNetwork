@@ -65,6 +65,11 @@ hash = "c5091ca6207647d585bd9e0c3e1a6d517b3f0f5a24aa9406a3462a9326e789f1"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "ef7c9b68b65e7baab19dc84903f068de6714e6f306052940f53c747743d3025e"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "20ce9d5a5d429c81b3edaf9458bf50d6e914ce2c83e31ff15eaf7a9996499ce2"
 metafile = true
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "28f531c7efc9e5257235adcb19913ed278f3bc76a36326f28d9fb9303df9e4de"
 metafile = true
 
 [[files]]
